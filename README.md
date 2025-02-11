@@ -17,7 +17,7 @@ This is a E-Commerce web application built with React, TypeScript, and Tailwind 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/e-commerce.git
+   git clone https://github.com/mahm0udnasr/e-commerce.git
    cd e-commerce
    ```
 2. **Install dependencies**:
